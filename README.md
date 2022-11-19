@@ -1,4 +1,4 @@
-#  Trybe <img height="30px" weidth="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FTrybeEscola%2Fcommunity&psig=AOvVaw0xCUV9tTGGx-bqOwELpUc1&ust=1668963091840000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDv1pPauvsCFQAAAAAdAAAAABAE">
+#  Trybe <img height="30px" weidth="30px" src="https://yt3.ggpht.com/SLg3vW9jQbja0ea7la5Bx8nVffl5BprQ7xaTqx_weWvcUPqJF-ylPl2BSs8ocY5gdT06GB_a=s88-c-k-c0x00ffffff-no-rj">
 
 
 Neste repositório constam todas as atividades de aprendizagem desenvolvidas por _[Felipe Cardoso](https://www.linkedin.com/in/felipe-cardoso-810473182//)_ durante o curso na [Trybe](https://www.betrybe.com/) :rocket:
