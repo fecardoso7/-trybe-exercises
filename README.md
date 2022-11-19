@@ -1,4 +1,4 @@
-#  Trybe <img height="30p" weidth="30p" src="https://yt3.ggpht.com/SLg3vW9jQbja0ea7la5B8nVffl5BprQ7aTq_weWvcUPqJF-ylPl2BSs8ocY5gdT06GB_a=s88-c-k-c000ffffff-no-rj">
+#  Trybe <img height="30p" weidth="30p" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Eg8INSNe--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png">
 
 
 Neste repositório constam todas as atividades de aprendizagem desenvolvidas por _[Felipe Cardoso](https://www.linkedin.com/in/felipe-cardoso-810473182//)_ durante o curso de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:
