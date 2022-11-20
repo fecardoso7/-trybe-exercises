@@ -1,0 +1,33 @@
+#azul {
+	background-color: blue;
+	height: 120px;
+}
+
+#vermelho {
+	background-color: red;
+	height: 120px;
+}
+
+#preto {
+	background-color: black;
+	min-height: 400px;
+}
+
+#amarelo {
+	background-color: yellow;
+	min-height: 400px;
+}
+
+#verde {
+	background-color: green;
+	height: 100px;
+}
+
+@media screen and (max-width: 576px) {
+	#azul {
+		height: 60px;
+	}
+	#vermelho {
+		height: 45px;
+	}
+}

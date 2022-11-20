@@ -1,0 +1,42 @@
+html {
+	box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+	box-sizing: inherit;
+  }
+
+  .container {
+	display: flex;
+  }
+
+  p {
+	padding: 20px;
+  }
+
+  /* Primeiro Breakpoint */
+
+  @media screen and (max-width: 600px) {
+	body {
+		background-color: palevioletred;
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	}
+	.container {
+		flex-direction: column;
+	}
+	p {
+		padding: 0 5px;
+		line-height: 1.5em;
+	}
+  }
+
+  /* Segundo Breakpoint */
+
+  @media screen and (min-width: 1000px) {
+	body {
+		background-color: greenyellow;
+	}
+	.container {
+		flex-wrap: nowrap;
+	}
+  }
